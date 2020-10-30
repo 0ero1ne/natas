@@ -44,6 +44,11 @@ next level on this page, but rightclicking has been blocked!
 ```
 
 ## Level 1 → Level 2
+
+```
+
+```
+
 ## Level 2 → Level 3
 ## Level 3 → Level 4
 ## Level 4 → Level 5
